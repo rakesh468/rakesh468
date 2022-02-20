@@ -58,7 +58,7 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rakesh-kumar-g-30472921a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rakesh8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Rockzzrockey7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/itzzz_me_rocky/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
