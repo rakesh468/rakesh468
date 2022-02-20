@@ -13,7 +13,7 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 
 
 
-## 🚀 Languages:
+## 🚀 Things I code with:
 
 <p align="left"> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
