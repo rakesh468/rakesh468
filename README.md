@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh Kumar</h1>
-<h3 align="center"><span color="red"><b> Fullstack developer</b> <span>with the right mix of Functional programming from Chennai, Tamil Nadu.
+<h3 align="center"><span ><b> Fullstack developer</b> <span>with the right mix of Functional programming from Chennai, Tamil Nadu.
 Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</h3>
 
 
