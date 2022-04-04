@@ -7,7 +7,7 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://inspiring-mcclintock-8b0cae.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://quiet-wisp-084535.netlify.app)**
 
 - 📫 How to reach me **rakeshkumarg2000@gmail.com**
 
